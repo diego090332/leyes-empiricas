@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("images (9).jpeg")
 st.title("Calculadora de Leyes de los Gases")
 st.markdown("""
 Selecciona una ley de los gases y luego elige qué variable deseas calcular.  
